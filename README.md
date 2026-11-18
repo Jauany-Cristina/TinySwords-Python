@@ -6,6 +6,20 @@ Projeto desenvolvido como atividade acadêmica da disciplina **Linguagem de Prog
 
 Tiny Swords - Ouro e Goblins é um jogo 2D desenvolvido em Python, no qual o jogador controla um personagem em um cenário de fantasia medieval. O objetivo principal é coletar 10 moedas de ouro enquanto enfrenta goblins e administra suas vidas durante a partida.
 
+## Demonstração do jogo
+
+### Menu inicial
+![Menu inicial](screenshots/menu.png)
+
+### Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+### Tela de vitória
+![Tela de vitória](screenshots/vitoria.png)
+
+### Tela de derrota
+![Tela de derrota](screenshots/derrota.png)
+
 ## Funcionalidades
 
 - Movimentação do personagem utilizando as teclas WASD ou as setas do teclado.
